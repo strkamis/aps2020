@@ -1,7 +1,7 @@
 # Rodar o programa
  verificar qual a versão do Node.JS está instalado na maquina;
 baixar o VSCode;
-no terminal do proprio VSCode instalar o Angular CLI comando: ng install -g @angular/cli 
+no terminal do proprio VSCode instalar o Angular CLI comando: npm install -g @angular/cli 
 em seguida dar o (vai baixar todas as dependencias que usei) comando: npm install 
 
 # Regras 
